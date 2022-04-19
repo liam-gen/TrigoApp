@@ -1,0 +1,8 @@
+TrigoApp | v0.4
+- Réglages de bugs mineurs
+- Ajout de thèmes et de plugins par défaut
+- Modification de l'emplacement de certains fichiers
+- Ajout d'un dossier avec les informations légales
+- Ajout d'une license et des journaux des modifications lors de l'installation
+- Modification du thème de chargement
+- Optimisation des scripts et des styles locaux

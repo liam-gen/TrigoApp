@@ -1,0 +1,1 @@
+document.getElementById("custom-style-trigdesk").remove();

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>TrigoApp | Raccourcis</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>6</x>
+      <y>2</y>
+      <width>791</width>
+      <height>531</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:16pt; font-weight:600;&quot;&gt;Raccourcis&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:12pt; text-decoration: underline;&quot;&gt;CTRL+W :&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; Ouvrir le site Trigo-App.com&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:12pt; text-decoration: underline;&quot;&gt;CTRL+D :&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; Ouvrir le discord de TrigoApp&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:12pt; text-decoration: underline;&quot;&gt;CTRL+Y :&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; Ouvrir la chaîne YouTube de Trigo&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:12pt; text-decoration: underline;&quot;&gt;CTRL+R :&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; Recharger la page&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:12pt; text-decoration: underline;&quot;&gt;SHIFT+T :&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; Ouvrir le dossier des thèmes&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:12pt; text-decoration: underline;&quot;&gt;SHIFT+P :&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; Ouvrir le dossier des plugins&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:12pt; text-decoration: underline;&quot;&gt;SHIFT+C :&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; Ouvrir l'éditeur de CSS&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:12pt; text-decoration: underline;&quot;&gt;CTRL+A :&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; Ouvrir le site de TrigoApp&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:12pt; text-decoration: underline;&quot;&gt;CTRL+N :&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; Ouvrir la fenêtre des nouveautés&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:12pt; text-decoration: underline;&quot;&gt;CTRL+F :&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; Ouvrir la fenêtre de recherche&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:12pt; text-decoration: underline;&quot;&gt;CTRL+I :&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; Ouvrir la fenêtre d'informations de TrigoApp&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:12pt; text-decoration: underline;&quot;&gt;CTRL+I :&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; Ouvrir le site d'aide de TrigoApp&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>560</y>
+      <width>75</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>OK</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
